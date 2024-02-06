@@ -1,0 +1,3 @@
+To create new file with CMD  = type nul > filename
+To delete file with CMD  = del file name
+To Save partial folder or other folder in automatically nodemon = nodemon filename -e(extension) js, html, hbs etc ((exp = nodemon index.js -e js,hbs,html))
